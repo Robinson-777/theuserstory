@@ -27,7 +27,7 @@ export class AppComponent implements OnInit, AfterViewInit {
   constructor(private service: AppService) {
     this.service.fnPageSourcedata().then((data: TheUserStoryElement[]) => {
       if (data && data.length > 0) {
-        this.dataSource.data = data;
+        this.dataSource.data = data.filter(d => d.id !== undefined);
         // this.cpyDataSource = data.slice();
       }
     });

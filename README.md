@@ -4,7 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo Application
 
-Please Click [https://robinson3034.github.io/theuserstory/]
+Please Click https://robinson3034.github.io/theuserstory/
+
+## View in Online IDE stackblitz
+
+Please Click https://stackblitz.com/github/robinson3034/theuserstory
 
 ## Development server
 

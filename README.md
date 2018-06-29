@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo Application
 
-Please Click `http://localhost:4200/`
+Please Click [`https://robinson3034.github.io/theuserstory/`]
 
 ## Development server
 
